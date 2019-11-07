@@ -1,9 +1,9 @@
 # INSERT PROJECT TITLE
 
-## Created by PARTNER NAME and Lara Bjork on DATE
+## Created by PARTNER NAME and Diego Rojas on DATE
 
 ### Project Description
-This project was completed as part of the Epidocus in-class curriculum. The task description was as follows:
+This project was completed as part of the Epicodus in-class curriculum. The task description was as follows:
 
 As stated in the prompt from Epicodus, the project objectives are to:
 
@@ -31,4 +31,4 @@ USE THIS SECTION ONLY IF GH PAGE CREATED
 ### License
 This software is licensed under the MIT license.
 
-_Copyright (c) 2019 ** PARTNER NAME and Lara Bjork **_
+_Copyright (c) 2019 ** PARTNER NAME and Diego Rojas **_
